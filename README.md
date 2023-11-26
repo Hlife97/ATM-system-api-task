@@ -16,7 +16,7 @@ Hi, This project has been created with Laravel 9x framework.
 
     php artisan migrate
 
-### You need to create some categories manually, in order to do that you need to run seeder command
+### You need to create some users manually, in order to do that you need to run seeder command
 
     php artisan db:seed --class=UserSeeder
 
