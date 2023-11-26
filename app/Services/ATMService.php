@@ -15,7 +15,7 @@ class ATMService
             $user->balance -= $amount;
             $user->save();
 
-            $this->recordTransaction($user, $amount, 'withdrawal', $denominations);
+            $this->recordTransaction($user, $amount, 'withdrawal');
 
             return response()->json([
                 'message' => 'Əməliyyat uğurla tamamlandı',
