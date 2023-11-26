@@ -24,11 +24,17 @@ Hi, This project has been created with Laravel 9x framework.
 
     php artisan serve
 
-## withdraw post request 200 OK result
+### withdraw post request 200 OK result
 
-## withdraw post request 200 OK, Not enough funds
+<img width="862" alt="Screenshot 2023-11-27 at 00 31 05" src="https://github.com/Hlife97/ATM-system-api-task/assets/16389174/7b4dbe3a-0e10-432c-8d51-e1b030fd186f">
 
-## transaction delete request 200 OK
-## transaction delete request 404 Not Found
+### withdraw post request 200 OK, Not enough funds
+<img width="865" alt="Screenshot 2023-11-27 at 00 33 06" src="https://github.com/Hlife97/ATM-system-api-task/assets/16389174/8ad434ab-e503-4a2a-aa76-71dc25811b62">
+
+### transaction delete request 200 OK
+<img width="898" alt="Screenshot 2023-11-27 at 00 30 51" src="https://github.com/Hlife97/ATM-system-api-task/assets/16389174/b6f4d22a-18ac-485e-a781-fc16168469d5">
+
+### transaction delete request 404 Not Found
+<img width="855" alt="Screenshot 2023-11-27 at 00 32 04" src="https://github.com/Hlife97/ATM-system-api-task/assets/16389174/4d831231-36ae-4bfe-ab0d-f7b3231db0bd">
 
 Have a nice day!
